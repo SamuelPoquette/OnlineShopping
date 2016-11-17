@@ -1,0 +1,14 @@
+Name: HP Laptop
+UPC: 12345678
+Price: $500.00
+Inventory: 10000
+
+Name: Samsung Galaxy S7
+UPC: 22345678
+Price: $699.99
+Inventory: 15000
+
+Name: Apple iPhone 7
+UPC: 32345678
+Price: $749.99
+Inventory: 2000
