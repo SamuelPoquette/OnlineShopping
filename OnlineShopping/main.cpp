@@ -2,6 +2,8 @@
 #include <string>
 #include "Accounts.h"
 #include "LineItems.h"
+#include "Cart.h"
+#include "Menu.h"
 #include "ShoppingCart.cpp"
 
 using namespace std;

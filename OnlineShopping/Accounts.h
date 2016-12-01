@@ -13,14 +13,14 @@ public:
 	void setPassword(string password);
 	void setFName(string name);
 	void setLName(string name);
+	
 
+	string getId() { return id; };
+	string getPassword() { return password; };
+	string getFirstName() { return fName; };
+	string getLastName() { return lName; };
 
-	string getId() { return id };
-	string getPassword() { return password };
-	string getFirstName() { return fName };
-	string getLastName() { return lName };
-
-
+	void loadAccountInfo(string id);
 
 private:
 	string id;
