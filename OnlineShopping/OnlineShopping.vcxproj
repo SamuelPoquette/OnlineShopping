@@ -71,7 +71,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Accounts.h" />
+    <ClInclude Include="Cart.h" />
     <ClInclude Include="LineItems.h" />
+    <ClInclude Include="Menu.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Accounts.txt" />
